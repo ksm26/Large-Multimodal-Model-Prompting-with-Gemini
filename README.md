@@ -1,5 +1,7 @@
 # 🌟 [Large Multimodal Model Prompting with Gemini](https://www.deeplearning.ai/short-courses/large-multimodal-model-prompting-with-gemini/)
 
+## 🌟 Original [Codebase](https://github.com/https-deeplearning-ai/sc-gc-c4-gemini-public)
+
 Welcome to the "Large Multimodal Model Prompting with Gemini" course! 🚀 Unlock the potential of Gemini for integrating text, images, and videos in your applications.
 
 ## 📘 Course Summary

@@ -9,6 +9,11 @@ Multimodal models like Gemini are breaking new ground by unifying traditionally 
 
 **What You’ll Learn:**
 1. 📊 **Introduction to Gemini Models**: Explore the Gemini model family, including Nano, Pro, Flash, and Ultra. Learn to select the right model based on capabilities, latency, and cost considerations.
+<p align="center">
+<img src="images/l1_1.png" height="330"> 
+<img src="images/l1_2.png" height="330"> 
+</p>
+
 2. 🔍 **Multimodal Prompting and Parameter Control**: Master advanced techniques for structuring text-image-video prompts. Fine-tune parameters like temperature, top_p, and top_k to balance creativity and determinism.
 3. 🛠️ **Best Practices for Multimodal Prompting**: Gain hands-on experience with prompt engineering, role assignment, task decomposition, and formatting. Understand the impact of prompt-image ordering on performance.
 4. 🏡 **Creating Use Cases with Images**: Build applications such as interior design assistants and receipt itemization tools. Utilize Gemini’s cross-modal reasoning to analyze relationships between entities across images.
